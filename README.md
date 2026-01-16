@@ -1,4 +1,5 @@
-# 🔐 Phishing Email Detector (FastAPI + Machine Learning)
+# 🔐 Phishing Email Detector 
+# (FastAPI + Machine Learning)
 
 A cybersecurity project that detects phishing emails using
 rule-based analysis and a Machine Learning model trained on a real Kaggle dataset.
